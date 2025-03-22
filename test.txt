@@ -1,0 +1,16 @@
+hello
+world
+JAva
+WORLD
+HELLO
+
+java
+hELLo
+world
+java
+WORld
+java
+JAVA
+JAVA
+world
+
